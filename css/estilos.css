@@ -5,12 +5,8 @@
 }
 
 body {
-	background: #1b355c;
+	background: url(https://www.xtrafondos.com/descargar.php?id=3036&resolucion=3840x2160);
     font-family: 'Work Sans', sans-serif;
-}
-H1{
-	color: rgb(182, 182, 182);
-
 }
 .portada {
 	width: 100%;
@@ -39,12 +35,14 @@ H1{
 }
 
 .portada .header .logotipo {
-	font-size: 50px;
+    color: rgb(255, 255, 255);
+	font-size: 84px;
 	font-size: 900;
 	margin-bottom: 20px;
 }
 
 .portada .header .mensaje {
+    color: rgb(172, 205, 255);
 	font-size: 30px;
 	font-weight: 600;
 }
