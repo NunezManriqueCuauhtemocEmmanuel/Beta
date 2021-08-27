@@ -46,6 +46,11 @@ body {
 	font-size: 30px;
 	font-weight: 600;
 }
+.portada .header .text {
+    color: rgb(172, 205, 255);
+	font-size: 30px;
+	font-weight: 600;
+}
 
 
 
@@ -70,7 +75,8 @@ main {
 }
 
 .simply-section {
-	background: #fff;
+	color: #fff;
+	background: rgba(255, 255, 255, 0);
 	width: 180px;
 	height: 180px;
 	margin: 0 20px;
